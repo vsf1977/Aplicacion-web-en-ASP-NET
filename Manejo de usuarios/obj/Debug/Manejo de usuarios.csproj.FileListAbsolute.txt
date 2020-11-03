@@ -1,0 +1,156 @@
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.dll.config
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.pdb
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.exe
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.exe.config
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.rsp
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.exe
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.exe.config
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.rsp
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.AppContext.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Console.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Net.Http.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.exe
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.exe.config
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.rsp
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Helpers.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Mvc.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Razor.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Razor.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Helpers.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Mvc.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csprojAssemblyReference.cache
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csproj.CopyComplete
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.dll
+C:\Users\Mery\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.pdb
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.pdb
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csprojAssemblyReference.cache
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csproj.CoreCompileInputs.cache
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.dll.config
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Manejo de usuarios.pdb
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.exe
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.exe.config
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csc.rsp
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.exe
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.exe.config
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\csi.rsp
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.AppContext.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Console.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Net.Http.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.exe
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.exe.config
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\vbc.rsp
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Helpers.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Mvc.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Razor.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Razor.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Razor.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Webpages.Razor.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Helpers.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\System.Web.Mvc.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Razor.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\vsilva\source\repos\Manejo de usuarios\Manejo de usuarios\obj\Debug\Manejo de usuarios.csproj.CopyComplete
